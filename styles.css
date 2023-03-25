@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(118, 194, 194);
+  font-size: 20px;
+  font-weight: 600;
+}
+h1 {
+  text-align: center;
+}
+.conteiner {
+  max-width: 100%;
+  margin: auto;
+}
+
+.cont {
+  background-color: rgb(118, 194, 194);
+  max-width: 50%;
+  margin: auto;
+  display: flex;
+}
+
+.cont1 {
+  max-width: 100%;
+  display: flex;
+  margin: auto;
+}
+.cont2 {
+  max-width: 100%;
+  display: flex;
+  margin: auto;
+}
